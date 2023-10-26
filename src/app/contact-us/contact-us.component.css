@@ -1,0 +1,8 @@
+/* Define your styles here */
+.text-gray-500 {
+    color: #888;
+}
+
+.dark-text {
+    color: #333; /* Modify to your desired open-menu text color */
+}
